@@ -14,16 +14,13 @@ font-family: 'Noto Sans JP', sans-serif;
   height: 1075px;
 }
 
-.greeting {
-  font-size: 5rem;
-  font-weight: bolder;
-}
-
-.dark-grey-background {
-  background-color: whitesmoke;
-}
-
+.greeting,
+.education,
 .create {
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: bolder;
+}
+
+.light-grey-background {
+  background-color: rgb(231, 227, 227);
 }
