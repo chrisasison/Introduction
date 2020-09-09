@@ -24,3 +24,18 @@ font-family: 'Noto Sans JP', sans-serif;
 .light-grey-background {
   background-color: rgb(231, 227, 227);
 }
+
+#footer {
+  padding: 20px 0;
+  text-align: center;
+  background-color: #111111;
+  text-decoration: none;
+}
+
+#footer a {
+  color: #ffffff;
+}
+.social > li {
+  display: inline-block;
+  margin: 0 5px;
+}
