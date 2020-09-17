@@ -5,13 +5,11 @@ font-family: 'Kumbh Sans', sans-serif;
 font-family: 'Noto Sans JP', sans-serif;
 }
 
-
-
 .cover-photo {
   background-image: url(../img/GPTempDownload.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
-  height: 1075px;
+  height: 1178px;
 }
 
 .greeting,
