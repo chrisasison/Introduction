@@ -164,11 +164,3 @@ experienceDiv.appendChild(job2Task1);
 experienceDiv.appendChild(jobTitle3);
 experienceDiv.appendChild(job3Task);
 experienceDiv.appendChild(job3Task1);
-
-
-
-
-
-
-
-
