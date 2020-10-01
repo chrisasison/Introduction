@@ -5,15 +5,9 @@
   font-family: "Noto Sans JP", sans-serif;
 }
 
-.cover-photo {
-  background-image: url(../img/GPTempDownload.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 1178px;
-}
-
 .nav-transition {
-  opacity: 85%;
+  opacity: 70%;
+  transition: 2s, opacity .5s linear;
 }
 
 .greeting,
